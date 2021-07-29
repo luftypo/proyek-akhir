@@ -1,0 +1,5 @@
+Akurasi indikator = total data terbaca / total baris x 100
+
+akurasi variabel = jumlah akurasi indikator n / n
+
+akurasi paremeter = jumlah akurasi variabel n / n
